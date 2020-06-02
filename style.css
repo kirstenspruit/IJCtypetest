@@ -1,0 +1,48 @@
+body {
+  font-family: courier new;
+  background-color: #008751;
+  color: #fff;
+  font-size: 20px;
+  padding-top: 50px;
+  padding-bottom: 50px; 
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+
+#myElement h1 {
+  font-family: courier new;
+  font-weight: normal;
+  font-size: 20px;
+  text-align: left;
+}
+
+#myElement h2 {
+  font-family: courier new;
+  font-weight: normal;
+  font-size: 20px;
+  text-align: center;
+}
+
+#myElement h3 {
+  font-family: courier new;
+  font-weight: normal;
+  font-size: 20px;
+  text-align: left;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+#myElement h4 {
+  font-family: courier new;
+  font-weight: normal;
+  font-size: 20px;
+  text-align: right;
+}
+
+#myElement a {
+  font-family: courier new;
+  font-weight: normal;
+  font-size: 20px;
+  text-align: left;
+}
